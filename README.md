@@ -33,6 +33,16 @@ Anta en eller flera!
 https://en.wikipedia.org/wiki/Easter_egg_(media)
 - anta egna utmaningar!
 
+## AI
+
+AI kan vara till stor hjälp, exempelvis generera mindre eller större kodblock för att lösa ett problem. 
+
+*Vara ärlig mot dig själv ifall du använder kod du inte själv skapat.* 
+
+Större kodblock som AI genererat eller som du hittat på webben ska anges med en kommentar innan kodblocket. Finns en referens ange källan. Uppger AI ingen extern referens ange vilken AI tjänst som genererat koden. 
+
+*Tänk också på att du ska kunna förklara vad som händer i ett kodblock.*
+
 ## Begränsningar
 
 Vill ni använda ramverk, bibliotek som vi lärare inte visat under lektioner ska ni först inhämta synpunkter från oss lärare.
